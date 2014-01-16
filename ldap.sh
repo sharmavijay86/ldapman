@@ -1,6 +1,6 @@
 #!/bin/bash
-#AUTHOR : Vijay Kr Vishwakarma
-#Mail: vijay.vishwakarma2@wipro.com
+#AUTHOR : Vijay Sharma
+#Mail: sharmavijay86@gmail.com
 
 #About :-  This is a admin script for 389 Directory server or openldap server
 #          This script will help administrators to do some administrative tasks 
