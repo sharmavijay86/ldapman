@@ -206,7 +206,7 @@ e|E)
         break
         fi
         done
-	echo "changetype: modify" >>ldapexpire.ldif.ldif
+	echo "changetype: modify" >>ldapexpire.ldif
         echo "replace: shadowExpire" >>ldapexpire.ldif
 	echo "Account expiry date (yyyymmdd):"
         read accexp
